@@ -3,7 +3,7 @@ This is a program that replicates some of the functionality of SQL Servers. It w
 
 It is also assumed that it has already been optimized and works on conditions like:
 
-# Selection EMPLOYEE DNO = 5 EMPS_DNO5 
+Selection EMPLOYEE DNO = 5 EMPS_DNO5 
 
 Where the table selected values are being stored is named at the end.
 
